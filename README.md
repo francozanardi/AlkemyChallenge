@@ -1,13 +1,13 @@
 # Alkemy Challenge en Spring
 
-### Introducción
+## Introducción
 **API REST** utilizando Spring Boot, Spring Security (usando *JWT* para la autenticación) y Spring Data. La resolución presentada no tiene un *frontend* desarrollado.
 
-### Documentación
+## Documentación
 Para la documentación de los *endpoints* se utilizó Postman. Sumado a esta, más abajo se explican  algunas de las decisiones o problemáticas de diseño que se presentaron a la hora de realizar el challenge.
 La documentación puede encontrarse [aquí](https://documenter.getpostman.com/view/17666056/UUxxgoRg).
 
-### Breve informe de la realización del challenge
+## Breve informe de la realización del challenge
 Durante el desarrollo del challenge, se intentó generar código limpio. Principalmente, se intentó aplicar el concepto de *clean code* que enuncia que el código “se explique por sí solo”. El objetivo personal del challenge fue iniciar en el aprendizaje de **Spring**.
 
 A continuación, se detallan en ítems las principales decisiones de diseño tomadas:
@@ -23,5 +23,5 @@ A continuación, se detallan en ítems las principales decisiones de diseño tomada
 
 Por último, cabe resaltar que no se realizó el ejercicio opcional de testing.
 
-### Enunciado del challenge realizado
+## Enunciado del challenge realizado
 El enunciado del proyecto puede encontrarse en el archivo [enunciado.pdf](./enunciado.pdf)
